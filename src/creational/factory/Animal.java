@@ -8,7 +8,7 @@ package creational.factory;
  * 
  * Here i have specified some common methods for all animals
  * 
- * This is a superclass, subclasses will implement this interface
+ * This is a superclass, subclasses will extend this class
  *
  * @date 01-Mar-2019
  */
